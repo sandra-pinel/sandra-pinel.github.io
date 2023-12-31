@@ -1,2 +1,2 @@
 # sandra-pinel.github.io
-This repository contains a functional website about AI Image Processing
+This repository will contain a functional website about AI Image Processing. State: In process 
